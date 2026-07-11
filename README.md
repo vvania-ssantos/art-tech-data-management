@@ -217,4 +217,4 @@ O objetivo é demonstrar, por meio de um problema real, a aplicação prática d
 
 ---
 
-> *"Transformar dados em conhecimento é importante. Transformar conhecimento em decisões é o que gera valor."*
+> 
