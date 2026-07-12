@@ -1,4 +1,4 @@
--- Arquivo de Configuração Inicial e Carga de Dados - Arte-tech
+-- Arquivo de Configuração Inicial e Carga de Dados - Art-tech
 -- Data: 18/05/2026
 
 -- 1. Criação das Tabelas (Se não existirem)
