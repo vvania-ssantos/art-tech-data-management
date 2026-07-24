@@ -39,6 +39,14 @@ Quando esses dados permanecem distribuídos entre anotações, planilhas ou regi
 
 O **Arte-Tech Data Management** surgiu justamente para transformar essas informações em uma base estruturada, capaz de fornecer indicadores e apoiar decisões de forma mais estratégica.
 
+
+## Documentação
+
+- Banco de dados PostgreSQL
+- Histórico das compras
+- Registro fotográfico dos insumos
+- Evolução do estoque
+- Produção das bolsas
 ---
 
 # 🎯 O problema
